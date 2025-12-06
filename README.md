@@ -1,4 +1,4 @@
-# Moving-Rating-Prediction-DATA-SCIENCE-INTERN-ORBIT
+# Movie-Rating-Prediction-DATA-SCIENCE-INTERN-ORBIT
 # 🎬 Movie Rating Prediction with Python
 
 This project is a machine learning-based model that predicts IMDb ratings of Indian movies using features such as **genre**, **director**, and **lead actor**. Built as part of the **InternOrbit Level 1 Internship**, the goal is to explore data preprocessing, feature engineering, and regression modeling techniques.
